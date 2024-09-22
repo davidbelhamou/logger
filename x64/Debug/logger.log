@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\97258\Desktop\c-projects\tutoCyber\logger\main.c(14,6): warning C4047: 'initializing': 'int' differs in levels of indirection from 'char *'
+  logger.vcxproj -> C:\Users\97258\Desktop\c-projects\tutoCyber\logger\x64\Debug\logger.exe
